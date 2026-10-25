@@ -1,0 +1,16 @@
+{
+  "name": "aki-tal-poster",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Rebuild the AKI–TAL poster with updated Figure 1 and Figure 2",
+  "scripts": {
+    "poster": "node scripts/update_poster.mjs"
+  },
+  "dependencies": {
+    "jszip": "3.10.1"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

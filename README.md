@@ -1,2 +1,1 @@
-# AKI-TAL
-Human AKI–TAL programme analysis: updated poster, figures and reproducible plotting code.
+[![AKI–TAL research poster](poster/Poster.png)](poster/AKI_TAL_poster.pptx)
